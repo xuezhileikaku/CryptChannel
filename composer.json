@@ -1,0 +1,6 @@
+{
+    "require": {
+        "workerman/workerman": "^4.1",
+        "phpseclib/phpseclib": "3.0"
+    }
+}
